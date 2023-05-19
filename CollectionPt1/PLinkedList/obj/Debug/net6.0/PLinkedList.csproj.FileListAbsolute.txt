@@ -1,0 +1,15 @@
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\bin\Debug\net6.0\PLinkedList.exe
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\bin\Debug\net6.0\PLinkedList.deps.json
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\bin\Debug\net6.0\PLinkedList.runtimeconfig.json
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\bin\Debug\net6.0\PLinkedList.dll
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\bin\Debug\net6.0\PLinkedList.pdb
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.csproj.AssemblyReference.cache
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.AssemblyInfoInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.AssemblyInfo.cs
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.csproj.CoreCompileInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.dll
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\refint\PLinkedList.dll
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.pdb
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\PLinkedList.genruntimeconfig.cache
+D:\C#\ArrayECollection\CollectionPt1\PLinkedList\obj\Debug\net6.0\ref\PLinkedList.dll

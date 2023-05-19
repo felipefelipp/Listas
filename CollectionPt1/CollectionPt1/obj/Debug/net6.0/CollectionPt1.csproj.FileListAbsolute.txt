@@ -1,0 +1,15 @@
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\bin\Debug\net6.0\CollectionPt1.exe
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\bin\Debug\net6.0\CollectionPt1.deps.json
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\bin\Debug\net6.0\CollectionPt1.runtimeconfig.json
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\bin\Debug\net6.0\CollectionPt1.dll
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\bin\Debug\net6.0\CollectionPt1.pdb
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.csproj.AssemblyReference.cache
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.AssemblyInfoInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.AssemblyInfo.cs
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.csproj.CoreCompileInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.dll
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\refint\CollectionPt1.dll
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.pdb
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\CollectionPt1.genruntimeconfig.cache
+D:\C#\ArrayECollection\CollectionPt1\CollectionPt1\obj\Debug\net6.0\ref\CollectionPt1.dll

@@ -1,0 +1,15 @@
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\bin\Debug\net6.0\PoderDosSets.exe
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\bin\Debug\net6.0\PoderDosSets.deps.json
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\bin\Debug\net6.0\PoderDosSets.runtimeconfig.json
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\bin\Debug\net6.0\PoderDosSets.dll
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\bin\Debug\net6.0\PoderDosSets.pdb
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.csproj.AssemblyReference.cache
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.AssemblyInfoInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.AssemblyInfo.cs
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.csproj.CoreCompileInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.dll
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\refint\PoderDosSets.dll
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.pdb
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\PoderDosSets.genruntimeconfig.cache
+D:\C#\ArrayECollection\CollectionPt1\PoderDosSets\obj\Debug\net6.0\ref\PoderDosSets.dll

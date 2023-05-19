@@ -1,0 +1,15 @@
+D:\C#\ArrayECollection\CollectionPt1\Pstack\bin\Debug\net6.0\Pstack.exe
+D:\C#\ArrayECollection\CollectionPt1\Pstack\bin\Debug\net6.0\Pstack.deps.json
+D:\C#\ArrayECollection\CollectionPt1\Pstack\bin\Debug\net6.0\Pstack.runtimeconfig.json
+D:\C#\ArrayECollection\CollectionPt1\Pstack\bin\Debug\net6.0\Pstack.dll
+D:\C#\ArrayECollection\CollectionPt1\Pstack\bin\Debug\net6.0\Pstack.pdb
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.csproj.AssemblyReference.cache
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.AssemblyInfoInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.AssemblyInfo.cs
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.csproj.CoreCompileInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.dll
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\refint\Pstack.dll
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.pdb
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\Pstack.genruntimeconfig.cache
+D:\C#\ArrayECollection\CollectionPt1\Pstack\obj\Debug\net6.0\ref\Pstack.dll

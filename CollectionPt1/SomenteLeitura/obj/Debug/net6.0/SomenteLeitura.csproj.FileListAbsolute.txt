@@ -1,0 +1,15 @@
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\bin\Debug\net6.0\SomenteLeitura.exe
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\bin\Debug\net6.0\SomenteLeitura.deps.json
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\bin\Debug\net6.0\SomenteLeitura.runtimeconfig.json
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\bin\Debug\net6.0\SomenteLeitura.dll
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\bin\Debug\net6.0\SomenteLeitura.pdb
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.csproj.AssemblyReference.cache
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.AssemblyInfoInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.AssemblyInfo.cs
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.csproj.CoreCompileInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.dll
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\refint\SomenteLeitura.dll
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.pdb
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\SomenteLeitura.genruntimeconfig.cache
+D:\C#\ArrayECollection\CollectionPt1\SomenteLeitura\obj\Debug\net6.0\ref\SomenteLeitura.dll

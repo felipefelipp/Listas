@@ -1,0 +1,15 @@
+D:\C#\ArrayECollection\CollectionPt1\PQueue\bin\Debug\net6.0\PQueue.exe
+D:\C#\ArrayECollection\CollectionPt1\PQueue\bin\Debug\net6.0\PQueue.deps.json
+D:\C#\ArrayECollection\CollectionPt1\PQueue\bin\Debug\net6.0\PQueue.runtimeconfig.json
+D:\C#\ArrayECollection\CollectionPt1\PQueue\bin\Debug\net6.0\PQueue.dll
+D:\C#\ArrayECollection\CollectionPt1\PQueue\bin\Debug\net6.0\PQueue.pdb
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.csproj.AssemblyReference.cache
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.AssemblyInfoInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.AssemblyInfo.cs
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.csproj.CoreCompileInputs.cache
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.dll
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\refint\PQueue.dll
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.pdb
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\PQueue.genruntimeconfig.cache
+D:\C#\ArrayECollection\CollectionPt1\PQueue\obj\Debug\net6.0\ref\PQueue.dll
